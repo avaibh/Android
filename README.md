@@ -2,6 +2,7 @@ Android-APPS
 --------------
 
 Worked on number of projects while completing the Android Development Course on Udacity placed by Google. Developed variety of apps that uses basic android concepts of user interface and user inputs.
+
 Pre-requisites
 --------------
 
