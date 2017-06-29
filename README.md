@@ -13,6 +13,7 @@ Pre-requisites
 Device Tested On
 ---------------
 
+- Google Nexus 5X API 26 (Android O) - Android Emulator
 - Google Pixel XL API 25 (Android Nougat)
 - One Plus 3T API 25 (Android Nougat)
 - Samsung J7 API 23 (Android Marshmallow)
